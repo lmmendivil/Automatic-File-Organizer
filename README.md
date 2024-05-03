@@ -1,5 +1,5 @@
 # Automatic-File-Organizer
-The project is a file organization script that helps keep your directories clean and organized. It scans a specified directory (or multiple directories) for files with different extensions (e.g., .csv, .xlsx, .png, .txt, etc.) and sorts them into separate folders based on their file types.
+The project is a file organization script in Python that helps keep your directories clean and organized. It scans a specified directory (or multiple directories) for files with different extensions (e.g., .csv, .xlsx, .png, .txt, etc.) and sorts them into separate folders based on their file types.
 
 This repository contains the following files to help you understand the automatic file sorting functionality:
 
